@@ -15,3 +15,10 @@ Don't forget to create the train.txt and test.txt that inria.data calls.
 Finally, start training using the following command:
 
 <pre>$ ./darknet detector train data/inria.data cfg/yolo-inria.cfg darknet19_448.conv.23</pre>
+
+## Demos
+
+Check some results with Caltech Pedestrian dataset (videos)
+
+[Test1](https://vimeo.com/245870357)
+[Test2](https://vimeo.com/245870532)
